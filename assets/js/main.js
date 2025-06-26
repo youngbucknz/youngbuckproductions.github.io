@@ -1,3 +1,0 @@
-// Main site JS extracted from index.html
-// YouTube API and photo montage logic
-// ...copy all <script> content from index.html here...
